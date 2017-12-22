@@ -1,0 +1,6 @@
+python checklist
+--------------------------
+
+-- prompts should be messagebox in the cli
+-- registration redirect to login screen
+-- register confirm pass

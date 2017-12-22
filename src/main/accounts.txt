@@ -1,0 +1,3 @@
+{"username": "joemar", "password": "111111"}
+{"username": "jhmvin", "password": "111111"}
+{"username": "joemardc", "password": "123456"}
